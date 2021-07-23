@@ -1,17 +1,8 @@
-# facebook
+# Facebook UI Clone
+# Web:
 
-A new Flutter project.
+![image](https://user-images.githubusercontent.com/19754888/126816189-add1582e-e23e-4361-b5e7-37745c36bd49.png)
 
-## Getting Started
+# Android:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Flutter_Facebook_UI
+![image](https://user-images.githubusercontent.com/19754888/126816222-4e6fd967-19a2-4c3c-a5b6-8ec1404352c2.png)
